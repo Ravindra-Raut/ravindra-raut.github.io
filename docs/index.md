@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+## About
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I am a bioinformatician with a focus on genome evolution, transposable elements, and host–pathogen interactions. My work aims to understand how genome structure, regulatory dynamics, and sequence variation contribute to adaptation and disease at population and species scales.
 
-## Commands
+I have conducted large-scale comparative genomics analyses across multiple rice genomes to study transposable element dynamics and evolutionary patterns, and RNA-seq investigations of fungal pathogenicity to characterize gene expression changes associated with host adaptation. My research integrates statistical modeling, reproducible pipeline development, and high-performance computing to manage and interpret complex genomic datasets.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+In parallel, I apply computational structural biology approaches, including molecular docking and molecular dynamics simulations, to investigate protein–ligand interactions and functional mechanisms. Using Python-based workflows built around AutoDock Vina, RDKit, MDAnalysis, and GROMACS, I connect molecular-level modeling with broader genomic and systems-level questions.
 
-## Project layout
+I am particularly interested in developing scalable computational frameworks that link genome architecture, evolutionary processes, and functional biology. I aim to advance integrative approaches that combine comparative genomics, transcriptomics, and modeling to address fundamental questions in genome evolution and disease biology.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## Research Interests
+
+- Transposable element evolution  
+- Comparative genomics  
+- RNA-seq and transcriptomics  
+- Host–pathogen interaction  
+- Functional genome annotation  
+- Evolutionary genomics
+
+---
+
+## Visitors
+
+<script type="text/javascript" id="clustrmaps"
+src="//clustrmaps.com/map_v2.js?d=Uby2lCY57pSmjDkhqg1C61w3cDlNkgXnQK8NeVHYjHw&cl=ffffff&w=a">
+</script>

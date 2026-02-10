@@ -2,4 +2,25 @@ site_name: Ravindra Raut
 
 theme:
   name: material
+  logo: Images/avatar.png
+  palette:
+    scheme: slate
+    primary: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
 
+nav:
+  - Home: index.md
+  - Publications: Publications/publications.md
+  - Projects: Projects/projects.md
+  - Protocols: Protocols/protocols.md
+  - Teaching: Teaching/teaching.md
+  - Notes: Notes/notes.md
+  - Contact: Contact/contact.md
+  - Gallery: Gallery/gallery.md
+
+features:
+  - navigation.tabs
+  - navigation.sections
+  - search.highlight
