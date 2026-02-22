@@ -18,13 +18,55 @@ We provide data to the computer, and it learns the pattern on its own.
 ------------------------------------------------------------------------
 
 ## 2. Why Do We Need Machine Learning?
+### 2.1. Disease Gene Prediction
+- Identify disease-causing mutations
 
--   Email spam detection
--   Netflix recommendations
--   Face recognition
--   Self-driving cars
--   Predicting prices (houses, dresses, cars)
+- Classify variants as benign or pathogenic
 
+- Predict cancer driver genes
+
+Example: 
+From whole genome sequencing data, ML models can predict whether a mutation is harmful.
+
+### 2.2. RNA-Seq Expression Analysis
+- Cluster genes with similar expression patterns
+
+- Classify samples (healthy vs diseased)
+
+- Identify biomarkers
+
+Example:
+Grouping tumor vs normal samples using gene expression data.
+### 2.3. Crop Disease Prediction
+- Detect plant diseases from leaf images
+
+- Predict resistance genes
+
+- Classify pathogen strains
+
+Example:
+Predicting whether a rice plant is infected using image or genomic data.
+### 2.4. Transposon and Genome Annotation
+- Identifying transposable elements
+
+- Classifying repeat families
+
+- Predicting insertion hotspots
+
+- Annotating genomes automatically
+
+Example:
+Classifying unknown repetitive sequences into TE families.
+
+### 2.5. Protein Structure and Function Prediction
+- Predict protein 3D structure
+
+- Identify functional domains
+
+- Predict enzyme activity
+
+Example:
+Predicting protein folding from amino acid sequence.
 ------------------------------------------------------------------------
 
 # 3. Types of Machine Learning
