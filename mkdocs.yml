@@ -11,25 +11,27 @@ theme:
     code: Roboto Mono
   features:
     - content.code.copy
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+
 nav:
   - Home: index.md
   - Publications: Publications/publications.md
-  - Machine_Learning: Machine_Learning/Basics_of_Machine_Learning.md
+  - Machine Learning: Machine_Learning/Basics_of_Machine_Learning.md
   - Projects: Projects/projects.md
   - Protocols: Protocols/protocols.md
   - Teaching: Teaching/teaching.md
   - Notes: Notes/notes.md
   - Contact: Contact/contact.md
   - Gallery: Gallery/gallery.md
-
-features:
-  - navigation.tabs
-  - navigation.sections
-  - search.highlight
-
+  
 markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+
+
