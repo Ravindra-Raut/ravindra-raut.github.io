@@ -9,7 +9,8 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-
+  features:
+    - content.code.copy
 nav:
   - Home: index.md
   - Publications: Publications/publications.md
@@ -25,3 +26,10 @@ features:
   - navigation.tabs
   - navigation.sections
   - search.highlight
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
